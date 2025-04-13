@@ -1,0 +1,5 @@
+streamlit
+google-generativeai
+python-dotenv
+pdf2image  # for app.py
+PyPDF2 # for app2.py
