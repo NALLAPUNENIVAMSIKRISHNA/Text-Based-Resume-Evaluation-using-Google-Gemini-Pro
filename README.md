@@ -19,7 +19,7 @@ This project is a Streamlit-based application that evaluates a candidate's resum
 
 ---
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 - **Python**
 - **Streamlit** – web app framework
