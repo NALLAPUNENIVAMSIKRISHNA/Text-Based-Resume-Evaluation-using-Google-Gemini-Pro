@@ -1,5 +1,7 @@
 # Text-Based Resume Evaluation using Google Gemini Pro
 
+Demo Video Link :- https://drive.google.com/file/d/1yqdjB8fJ33KK1weY9cjn7Z_taOEh3soV/view?usp=sharing
+
 This project is a Streamlit-based application that evaluates a candidate's resume by comparing its text content to a job description using Google’s Gemini Pro. Unlike image-based models, this app directly reads and analyzes the plain text extracted from the uploaded PDF file for fast and accurate results.
 
 ---
